@@ -1,0 +1,8 @@
+loadgen/build/
+libmlperf_loadgen.a
+__pycache__/
+generated/
+*.swp
+*.egg-info/
+*.so
+.vscode/
